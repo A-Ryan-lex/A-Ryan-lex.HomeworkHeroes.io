@@ -1,6 +1,6 @@
 This is temporary, but it's the role list of who's doing what:
 
-Alex - Hoster of Repo. Head procrastinator
-Rory - text writerer. Junior coder. can probably make a div or something. Leader of the cool kid socieety. Chief role assigner.
-Banry - Technical knowhow prime. Squad leader numero uno. Main coder
-Harry - Chief aesthetic aestheticer. Part time youtube phenomenon
+Alex - Hoster of Repo/head procrastinator.
+Rory - Text writerer/junior coder/can probably make a div or something.
+Banry - Technical know-how prime/squad leader numero uno/main coder.
+Harry - Chief aesthetic aestheticer/HUGE YouTube phenomenon.
