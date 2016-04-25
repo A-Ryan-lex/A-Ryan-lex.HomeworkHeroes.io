@@ -1,6 +1,6 @@
 This is temporary, but it's the role list of who's doing what:
 
-Alex - 
-Rory - 
-Banry - 
-Harry - 
+Alex - Hoster of Repo.
+Rory - text writerer. Junior coder. can probably make a div or something
+Banry - Technical knowhow prime. Squad leader numero uno. Main coder
+Harry - Chief aesthetic aestheticer
